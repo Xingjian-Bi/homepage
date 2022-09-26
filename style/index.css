@@ -1,0 +1,72 @@
+body {
+	background-color: #f2f2f2 !important;
+}
+
+.profile-pic {
+	margin-top: 10%;
+	border-radius: 50%;
+	width: 100%;
+	height: auto;
+}
+
+.title-font {
+	margin-top: 40%;
+	font-family: "Courier", monospace;
+}
+
+.subtitle-font {
+	font-family: "Courier", monospace;
+}
+
+.contact-info {
+	margin-top: 40%;
+	background-color: skyblue;
+}
+
+.footer {
+	margin-top: 5%;
+	text-align: center;
+	font-family: "Courier", monospace;
+	background-color: #4b4b4b;
+}
+
+.footer h4 {
+	margin-top: 8px;
+	color: white;
+}
+
+.fa-envelope {
+	color: white;
+}
+
+.fa-linkedin {
+	color: #2867b2;
+}
+
+.fa-github {
+	color: #171515;
+}
+
+.fa-twitter {
+	color: #1da1f2;
+}
+
+.footer a {
+	margin-bottom: 2%;
+	text-decoration: none;
+}
+
+.footer a:hover {
+	color: yellow;
+}
+
+#preloader {
+	background: #000
+		url(https://thumbs.gfycat.com/WelcomeYoungFoal-size_restricted.gif)
+		no-repeat center;
+	background-size: 30%;
+	height: 100vh;
+	width: 100%;
+	position: fixed;
+	z-index: 6000;
+}

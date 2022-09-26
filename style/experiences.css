@@ -1,0 +1,28 @@
+.experience{
+	margin-top: 1%;
+	text-align: center;
+	font-family: "Courier", monospace;
+}
+
+.exp-detail{
+	margin-top: 2%;
+}
+
+.neu-logo {
+	width: 90%;
+	height: 90%;
+	margin-top: 3%;
+}
+
+.psu-logo{
+	width: 90%;
+	height: 85%;
+	margin-top: 3%;
+}
+
+.dlpii-logo{
+	margin-left: 10%;
+	width: 60%;
+	height: 80%;
+	margin-top: 3%;
+}

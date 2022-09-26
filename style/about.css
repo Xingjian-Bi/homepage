@@ -1,0 +1,38 @@
+.about{
+	margin-top: 1%;
+	text-align: center;
+	font-family: "Courier", monospace;
+}
+
+.about h3 {
+	font-size: :20px;
+	color:  #5e5e5e;
+	margin-top: 5%;
+}
+
+.hobbies{
+	margin-top: 5%;
+	text-align: center;
+	font-family: "Courier", monospace;
+}
+
+.hobbies-info{
+	text-align: center;
+	font-family: "Courier", monospace;
+}
+
+.hobbies-info h3 {
+	margin-top: 3%;
+}
+
+.hobbies-pic{
+	margin-top: 3%;
+	width: 60%;
+	height: 70%;
+}
+
+.hobbies-info h5 {
+	font-size: :5px !important;
+	color:  #5e5e5e;
+	margin-top: 3%;
+}
