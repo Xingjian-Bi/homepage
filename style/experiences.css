@@ -1,10 +1,10 @@
-.experience{
+.experience {
 	margin-top: 1%;
 	text-align: center;
 	font-family: "Courier", monospace;
 }
 
-.exp-detail{
+.exp-detail {
 	margin-top: 2%;
 }
 
@@ -14,15 +14,20 @@
 	margin-top: 3%;
 }
 
-.psu-logo{
+.psu-logo {
 	width: 90%;
 	height: 85%;
 	margin-top: 3%;
 }
 
-.dlpii-logo{
+.dlpii-logo {
 	margin-left: 10%;
 	width: 60%;
 	height: 80%;
 	margin-top: 3%;
+}
+
+.coursework-detail {
+	margin-top: 2%;
+	margin-bottom: 3%;
 }
